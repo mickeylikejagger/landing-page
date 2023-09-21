@@ -65,6 +65,27 @@
     height: 300px;
 }
 
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-item {
+    border: 1px solid #fff;
+    background-color: #FBF9F6;
+    height: 200px;
+    flex: 1;
+}
+
+.footer-one,
+.footer-three,
+.footer-five,
+.footer-seven,
+.footer-nine,
+.footer-eleven {
+    background-color: #FFEFE9;
+}
+
 
 
 
